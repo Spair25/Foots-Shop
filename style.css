@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(243, 243, 243);
     color: rgb(0, 0, 0);
     
 }
@@ -23,17 +23,39 @@ header {
 }
 
 nav {
-    border-top: 5px solid rgb(0, 0, 0);
-    border-bottom: 5px solid rgb(0, 0, 0);
+    border-top: 3px solid rgb(0, 0, 0);
+    border-bottom: 3px solid rgb(0, 0, 0);
     padding: 25px 100px 25px 95px;
     justify-content: space-between;
     display: flex;
+}
+.Choose {
+    border-top: none;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    justify-content: left;
+    display: flex;
+    text-align: left;
+
+}
+.Choose1 {
+    border-top: none;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    justify-content: left;
+    display: flex;
+    text-align: left;
+    border-bottom: 3px solid black;
+
 }
 
 .nav-link {
     font-size: 24px;
     color: rgb(0, 0, 0);
     text-decoration: none;
+
 }
 
 h1 {
@@ -59,7 +81,7 @@ article {
     background-color: rgb(182, 190, 186);
     padding:20px ;
     width: 400px;
-    margin:25px ;
+    margin:100px ;
     text-align: center;
     align-content: center;
 }
