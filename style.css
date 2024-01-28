@@ -59,11 +59,12 @@ article {
     background-color: rgb(182, 190, 186);
     padding:30px ;
     width: 400px;
-    margin:10px ;
+    margin:5px ;
     text-align: center;
 }
 
 .article-but {
+    transition: 0.5s;
     text-decoration: none;
     background-color: rgb(100, 100, 100);
     color: rgb(0, 0, 0);
@@ -72,6 +73,17 @@ article {
     padding: 10px 75px 10px 75px;
     border-radius: 25px;
 }
+.article-but:hover {
+    transition: 0.5s;
+    text-decoration: none;
+    background-color: rgb(100, 100, 100);
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    padding: 15px 80px 15px 80px;
+    border-radius: 25px;
+}
+
 
 footer {
     background-color: rgb(231, 231, 231);
