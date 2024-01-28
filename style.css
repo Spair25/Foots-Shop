@@ -83,6 +83,7 @@ article {
     width: 400px;
     margin:50px ;
     text-align: center;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
