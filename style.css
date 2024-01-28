@@ -59,8 +59,9 @@ article {
     background-color: rgb(182, 190, 186);
     padding:20px ;
     width: 400px;
-    margin:5px ;
+    margin:25px ;
     text-align: center;
+    align-content: center;
 }
 
 .article-but {
