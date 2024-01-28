@@ -83,7 +83,8 @@ article {
     width: 400px;
     margin:50px ;
     text-align: center;
-    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .article-but {
