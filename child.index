@@ -1,1 +1,70 @@
+<html>
+    <head>
+        <title>Foots-Shop</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <header>
+            <h1>
+                Магазин Обуви
+            </h1>
+        <div>
+            <a class="Choose" href="index.html">Мужская</a>
+            <a class="Choose" href="femail.html">Женская</a>
+            <a class="Choose1" href="">Детская</a>
+        </div>
+        </header>
+        <nav>
+            <a class="nav-link" href="index.html">Каталог</a>
+            <a class="nav-link" href="">Оптом</a>
+            <a class="nav-link" href="">Доставка</a>
+            <a class="nav-link" href="">Возврат товара</a>
+        </nav>
+        <main>
+            <h1>--- Каталог ---</h1>
+            <section class="info">
+                <article>
+                    <h2></h2>
+                    <img src="https://1.allegroimg.com/s1024/0ccb4d/5672271642239463e9fd95265871" width="400px" height="300px"/>
+                    <p>Сапоги</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                <article>
+                    <h2></h2>
+                    <img src="https://womanadvice.ru/sites/default/files/34/2015-11-24_0151/detskie_krossovki_dlya_malchikov_4.jpg" width="400px" height="300px"/>
+                    <p>Кроссовки</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                <article>
+                    <h2></h2>
+                    <img src="https://www.veselatkanicka.cz/img_produkty/velke/detske-backurky-superfit-2-00374-81-c-1519292666.jpg" width="400px" height="300px"/>
+                    <p>Кеды</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                <article>
+                    <h2></h2>
+                    <img src="https://th.bing.com/th/id/OIP.1fskixIbxW-6DlL8KCelqwHaHU?rs=1&pid=ImgDetMain" width="400px" height="300px"/>
+                    <p>Кроксы</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                <article>
+                    <h2></h2>
+                    <img src="https://www.dallashouse.co.uk/images/ebay/ds/products/997/214s.jpg" width="400px" height="300px"/>
+                    <p>Туфли</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                <article>
+                    <h2></h2>
+                    <img src="https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2905679.jpg" width="400px" height="300px"/>
+                    <p>Сандали</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+            </section>
 
+        </main>
+        <footer>
+            <script src="//code.jivo.ru/widget/2MW2K1onGa" async></script>
+<p>тел: 0634620853</p>
+        </footer>
+    </body>
+</html>
