@@ -118,7 +118,6 @@ main{
 footer {
     background-color: rgb(231, 231, 231);
     padding:0px ;
-    display: flex;
     border-top: 5px solid rgb(0, 0, 0);
 }
 
