@@ -21,6 +21,14 @@ header {
     font-size: 24px;
     border-radius: 10px;
 }
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+
 
 nav {
     border-top: 3px solid rgb(0, 0, 0);
@@ -70,12 +78,7 @@ p {
     font-size: 24px;
 }
 
-.info {
-    flex-wrap: wrap;
-    width: 1100px;
-    margin: 0px;
-    display: flex;
-}
+
 
 article {
     background-color: rgb(182, 190, 186);
@@ -125,4 +128,3 @@ footer a {
 
 footer p {
     font-size: 24px;
-
